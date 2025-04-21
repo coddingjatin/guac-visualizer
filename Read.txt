@@ -1,0 +1,4 @@
+GUAC Visualizer
+The GUAC Visualizer is an experimental utility that can be used to interact with the GUAC services. It acts as a way to visualize the software supply chain graph as well as a means to explore the supply chain, and prototype policies.
+
+Since the GUAC Visualizer is still in an early experimental stage, it is likely that there may be some unexpected behavior or usage problems. For a more robust use of GUAC, we recommend using the GraphQL interface directly.
